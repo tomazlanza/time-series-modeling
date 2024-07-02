@@ -12,7 +12,7 @@ The entire report contains as its two parts (i) the presentation of the results 
     
 Looking from the future, I deem my assessments of the models and of their outcomes to be close to how things really went on, although the historically volatile IGP-M values have been overestimated both by myself and their model.
 
-I considered *“the most likely scenario for the behavior of the IPCA 12-month variation (..) not significantly surpassing the 5% threshold”* in the end of the third quarter of 2023, meaning that the ponctual projection of 6.30% of the model would be “overestimated by around one percentage point”. My evaluation was pertinent, given that IPCA whole-year variation turned out to be **5.19%** in September.
+I considered *“the most likely scenario for the behavior of the IPCA 12-month variation (..) not significantly surpassing the 5% threshold”* in the end of the third quarter of 2023, meaning that the ponctual projection of 6.30% of the model would be *“overestimated by around one percentage point”*. My evaluation was pertinent, given that IPCA whole-year variation turned out to be **5.19%** in September.
 
 For the IGP-M, its whole-year variation by September was **-5.97%**, around two percentage points less than the observed **-3.92%** value.
 
@@ -32,5 +32,5 @@ Lastly, I would like to cite a fragment of professor Erica Thompson’s intervie
 
 *“Instead of writing in your report ‘the model says X will happen’, you have to say, ‘I believe X will happen.’ You have to own the judgment of the model. That’s getting out of model land. That’s making an expert judgment that your model is correct or that it is wrong in a certain way.“*
 
-### References:
+## References:
 Thompson, E. (2023) *"Interview: professor and author Erica Thompson on real life vs ‘model land’"*. Interviewed by The Actuary, 6 July. Available at: https://www.theactuary.com/2023/07/06/interview-professor-and-author-erica-thompson-real-life-vs-model-land'
